@@ -32,8 +32,7 @@
     
 //   );
 // }
-// screens/MainApp.js
-// screens/MainApp.js
+
 import React from 'react';
 import { View } from 'react-native';
 import { createDrawerNavigator, DrawerContentScrollView, DrawerItem } from '@react-navigation/drawer';

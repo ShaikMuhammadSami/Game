@@ -1,3 +1,4 @@
+// screens/GameDetail.js
 // import React from 'react';
 // import { View, Text, Button, StyleSheet } from 'react-native';
 
@@ -32,7 +33,6 @@
 //     marginBottom: 20,
 //   },  
 // });
-// screens/GameDetail.js
 import React from 'react';
 import { View, Text, Image, StyleSheet, TouchableOpacity } from 'react-native';
 import { useNavigation } from '@react-navigation/native';
@@ -72,8 +72,8 @@ const styles = StyleSheet.create({
         fontSize: 18,
         marginBottom: 20,
       },  
-  // ... (previous styles)
-  joinButton: {
+
+      joinButton: {
     backgroundColor: '#007AFF',
     padding: 15,
     borderRadius: 5,
